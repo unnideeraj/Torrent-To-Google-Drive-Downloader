@@ -9,7 +9,8 @@ This Repo is a google collab codes which can be used to download torrent files d
 - (>)Click Run and wait for the download to complete.
 - Check the Gdrive folder for the files.
 - Modify the
-- bash ```
+- bash
+- ```
 - 'save_path': '/content/drive/My Drive/Torrent/'
 - ```
   for custom path or leave it as it is.
