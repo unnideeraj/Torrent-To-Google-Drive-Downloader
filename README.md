@@ -10,3 +10,7 @@ This Repo is a google collab codes which can be used to download torrent files d
 - Check the Gdrive folder for the files.
 - Modify the ``` 'save_path': '/content/drive/My Drive/Torrent/' ``` for custom path or leave it as it is.
 - ###Enjoy ToRrEnTing In Banned Networks###
+- Use this``` # @title Install libtorrent [torrent library]```
+```!python -m pip install --upgrade pip setuptools wheel```
+```!python -m pip install lbry-libtorrent```
+```!apt install python3-libtorrent```
